@@ -1,0 +1,15 @@
+Este texto está no txt myfile
+g i t c o n f i g −−g l o b a l u s e r . name n o m e d o u t i l i z a d o r
+g i t c o n f i g −−g l o b a l u s e r . e m a i l e m a i l d o u t i l i z a d o r
+g i t c o n f i g −− l i s t
+
+g i t c o n f i g −−g l o b a l u s e r . name n o m e d o u t i l i z a d o r
+g i t c o n f i g −−g l o b a l u s e r . e m a i l e m a i l d o u t i l i z a d o r
+g i t c o n f i g −− l i s t
+
+g i t c o n f i g −−g l o b a l u s e r . name n o m e d o u t i l i z a d o r
+g i t c o n f i g −−g l o b a l u s e r . e m a i l e m a i l d o u t i l i z a d o r
+g i t c o n f i g −− l i s t
+
+jh vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvo r
+g i t c o n f i g −− l i s t
